@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-22T15:12:44 IST" name="Default suite" finished-at="2022-04-22T15:13:10 IST" duration-ms="26318">
+    <groups>
+    </groups>
+    <test started-at="2022-04-22T15:12:44 IST" name="Default test" finished-at="2022-04-22T15:13:10 IST" duration-ms="26318">
+      <class name="rmgyantraTestsWithFramework.CreateProjectAndVerifyTheProject">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:rmgyantraTestsWithFramework.CreateProjectAndVerifyTheProject@2a54a73f]" started-at="2022-04-22T15:12:41 IST" name="bsConfig" finished-at="2022-04-22T15:12:44 IST" duration-ms="3136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method signature="createTheProjectVerifyInDB()[pri:0, instance:rmgyantraTestsWithFramework.CreateProjectAndVerifyTheProject@2a54a73f]" started-at="2022-04-22T15:12:44 IST" name="createTheProjectVerifyInDB" finished-at="2022-04-22T15:13:10 IST" duration-ms="26171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTheProjectVerifyInDB -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:rmgyantraTestsWithFramework.CreateProjectAndVerifyTheProject@2a54a73f]" started-at="2022-04-22T15:13:11 IST" name="asConfig" finished-at="2022-04-22T15:13:11 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- rmgyantraTestsWithFramework.CreateProjectAndVerifyTheProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
