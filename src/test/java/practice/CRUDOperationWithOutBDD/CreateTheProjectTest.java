@@ -34,6 +34,11 @@ public class CreateTheProjectTest
 		System.out.println(response.asString());
 		System.out.println(response.prettyPrint());
 		System.out.println(response.prettyPeek());
+		System.out.println("pavan and vivek and swami");
+		System.out.println(response.getContentType());
+		System.out.println(response.asString());
+		System.out.println(response.prettyPrint());
+		System.out.println(response.prettyPeek());
 	}
 
 }
