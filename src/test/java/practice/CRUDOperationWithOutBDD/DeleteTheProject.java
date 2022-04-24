@@ -23,6 +23,13 @@ public class DeleteTheProject
 		int actStatus = response.getStatusCode();
 		Assert.assertEquals(actStatus, 204);
 		
+		//dummy code
+		// step-3 validation
+		
+				response.then().log().all();
+				
+				int actStatus1 = response.getStatusCode();
+				Assert.assertEquals(actStatus, 204);
 		
 	}
 
