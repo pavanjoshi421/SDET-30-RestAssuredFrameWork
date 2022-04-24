@@ -21,6 +21,7 @@ public class GetSingleProjectTest
 		// step-3: validate the response
 		
 		resp.then().log().all();
+		System.out.println("swami");
 		
 		int actStatus = resp.getStatusCode();
 		
